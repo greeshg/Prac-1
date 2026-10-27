@@ -1,2 +1,5 @@
 Hello github
 Feature branch update
+Feature branch update
+Master branch change
+Merge conflict resolved
